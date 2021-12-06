@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "130364639719",
+    "project_id": "listpad-8ee2e",
+    "storage_bucket": "listpad-8ee2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130364639719:android:df4e9d60a3e0ffb6bd9542",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.listpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130364639719-pip31h8s56qba7re1crm16nb3lfbmcgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8OK1wNdkmyrbf3ReQauYt7p3rdL1NO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130364639719-pip31h8s56qba7re1crm16nb3lfbmcgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130364639719:android:33f6c2842e7a5357bd9542",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.sdmlistpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130364639719-pip31h8s56qba7re1crm16nb3lfbmcgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8OK1wNdkmyrbf3ReQauYt7p3rdL1NO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130364639719-pip31h8s56qba7re1crm16nb3lfbmcgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
